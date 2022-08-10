@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "modc:item/cobalt_ingot"
+    "layer0": "mcmod:item/cobalt_ingot"
   }
 }
